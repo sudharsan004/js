@@ -1,2 +1,2 @@
-# js
-java script basic to advance
+# java script
+Learn Java Script from basic to advance by real world examples.
